@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: #222;
+}
+canvas {
+    border: 2px solid white;
+    background-color: black;
+    display: block;
+    margin: auto;
+}
